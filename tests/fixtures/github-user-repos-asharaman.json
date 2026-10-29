@@ -1,0 +1,56 @@
+[
+ {
+  "full_name": "asharaman/tinyagent",
+  "name": "tinyagent",
+  "html_url": "https://github.com/asharaman/tinyagent",
+  "owner": {
+   "login": "asharaman",
+   "type": "User"
+  },
+  "stargazers_count": 4200,
+  "forks_count": 420,
+  "topics": [
+   "llm",
+   "ai-agents"
+  ],
+  "description": "Typed, testable LLM agents in 500 lines",
+  "language": "Python",
+  "pushed_at": "{{DAYS_AGO:5}}",
+  "fork": false,
+  "archived": false
+ },
+ {
+  "full_name": "asharaman/dotfiles",
+  "name": "dotfiles",
+  "html_url": "https://github.com/asharaman/dotfiles",
+  "owner": {
+   "login": "asharaman",
+   "type": "User"
+  },
+  "stargazers_count": 30,
+  "forks_count": 3,
+  "topics": [],
+  "description": "my dotfiles",
+  "language": "Shell",
+  "pushed_at": "{{DAYS_AGO:10}}",
+  "fork": false,
+  "archived": false
+ },
+ {
+  "full_name": "asharaman/langchain",
+  "name": "langchain",
+  "html_url": "https://github.com/asharaman/langchain",
+  "owner": {
+   "login": "asharaman",
+   "type": "User"
+  },
+  "stargazers_count": 5,
+  "forks_count": 0,
+  "topics": [],
+  "description": "fork",
+  "language": "Python",
+  "pushed_at": "{{DAYS_AGO:100}}",
+  "fork": true,
+  "archived": false
+ }
+]

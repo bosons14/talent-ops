@@ -1,0 +1,22 @@
+{
+ "ok": true,
+ "data": [
+  {
+   "full_name": "jkoenig/ragtime",
+   "html_url": "https://codeberg.org/jkoenig/ragtime",
+   "stars_count": 120,
+   "forks_count": 8,
+   "description": "Small RAG toolkit in Go",
+   "topics": [
+    "rag"
+   ],
+   "updated_at": "{{DAYS_AGO:25}}",
+   "fork": false,
+   "archived": false,
+   "owner": {
+    "login": "jkoenig",
+    "full_name": "Jonas König"
+   }
+  }
+ ]
+}

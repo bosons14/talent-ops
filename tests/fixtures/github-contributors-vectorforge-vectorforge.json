@@ -1,0 +1,22 @@
+[
+ {
+  "login": "dependabot[bot]",
+  "type": "Bot",
+  "contributions": 500
+ },
+ {
+  "login": "dokafor",
+  "type": "User",
+  "contributions": 340
+ },
+ {
+  "login": "lchen-dev",
+  "type": "User",
+  "contributions": 120
+ },
+ {
+  "login": "asharaman",
+  "type": "User",
+  "contributions": 45
+ }
+]

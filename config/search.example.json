@@ -1,0 +1,47 @@
+{
+  "role": "Senior / Staff engineer — applied LLMs",
+  "topics": [
+    { "name": "LLM agents", "tags": ["llm", "ai-agents", "agents"], "keywords": ["llm agent", "agentic", "ai agent", "tool calling"], "query": "LLM agents" },
+    { "name": "RAG", "tags": ["rag", "retrieval-augmented-generation"], "keywords": ["rag", "retrieval augmented", "vector search", "embeddings"], "query": "retrieval augmented generation" },
+    { "name": "LLM inference", "tags": ["llm-inference", "inference"], "keywords": ["inference", "quantization", "kv cache", "vllm", "cuda kernel"], "query": "LLM inference optimization" }
+  ],
+
+  "filters": {
+    "locations": [],
+    "strict_location": false,
+    "exclude_handles": [],
+    "exclude_companies": [],
+    "min_score": 0
+  },
+
+  "weights": { "code": 0.4, "writing": 0.3, "influence": 0.1, "relevance": 0.15, "cross": 0.05 },
+  "recency_half_life_days": 180,
+  "history_days": 90,
+  "shortlist_size": 25,
+  "cache_ttl_hours": 24,
+  "enrich_limit": 25,
+  "enrich_limit_with_token": 150,
+
+  "sources": {
+    "github": {
+      "enabled": true,
+      "min_stars": 200,
+      "pushed_within_days": 365,
+      "per_query": 30,
+      "language": null,
+      "org_repos_to_expand": 10,
+      "contributors_per_repo": 5,
+      "user_search": { "enabled": false, "location": "India", "languages": ["Python", "Rust"], "min_followers": 200 }
+    },
+    "gitlab":     { "enabled": true, "base_url": "https://gitlab.com", "min_stars": 50, "active_within_days": 365 },
+    "gitea":      { "enabled": true, "instances": ["https://codeberg.org"], "min_stars": 20 },
+    "bitbucket":  { "enabled": false, "workspaces": [], "min_watchers": 5 },
+
+    "devto":      { "enabled": true, "within_days": 365, "per_tag": 30, "min_reactions": 10 },
+    "medium":     { "enabled": true, "within_days": 365, "authors": [] },
+    "substack":   { "enabled": true, "publications": [], "discover": false, "within_days": 365 },
+    "hashnode":   { "enabled": true, "per_tag": 20, "min_reactions": 5 },
+    "hackernews": { "enabled": true, "min_points": 80, "within_days": 365, "exclude_domains": [] },
+    "feeds":      { "enabled": true, "urls": [] }
+  }
+}

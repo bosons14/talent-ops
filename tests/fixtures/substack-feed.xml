@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title><![CDATA[Inference Notes]]></title>
+<item><title><![CDATA[What actually limits LLM inference throughput]]></title><link>https://tomasvidal.substack.com/p/what-actually-limits</link><dc:creator><![CDATA[Tomás Vidal]]></dc:creator><pubDate>{{DAYS_AGO:15}}</pubDate><description><![CDATA[Memory bandwidth, KV cache and batching.]]></description></item>
+<item><title><![CDATA[Weekend links #42]]></title><link>https://tomasvidal.substack.com/p/weekend-links-42</link><dc:creator><![CDATA[Tomás Vidal]]></dc:creator><pubDate>{{DAYS_AGO:8}}</pubDate></item>
+</channel></rss>

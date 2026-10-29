@@ -1,0 +1,7 @@
+data/
+reports/
+demo/
+config/search.json
+modes/_brief.md
+node_modules/
+.env

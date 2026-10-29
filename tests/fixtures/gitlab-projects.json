@@ -1,0 +1,39 @@
+[
+ {
+  "id": 1,
+  "path_with_namespace": "priyan/edge-llm",
+  "web_url": "https://gitlab.com/priyan/edge-llm",
+  "star_count": 310,
+  "forks_count": 20,
+  "description": "Run LLM inference on edge devices",
+  "topics": [
+   "llm",
+   "inference"
+  ],
+  "last_activity_at": "{{DAYS_AGO:12}}",
+  "namespace": {
+   "kind": "user",
+   "path": "priyan",
+   "full_path": "priyan",
+   "name": "Priya Nair"
+  }
+ },
+ {
+  "id": 2,
+  "path_with_namespace": "somegroup/tiny",
+  "web_url": "https://gitlab.com/somegroup/tiny",
+  "star_count": 12,
+  "forks_count": 1,
+  "description": "small",
+  "topics": [
+   "llm"
+  ],
+  "last_activity_at": "{{DAYS_AGO:12}}",
+  "namespace": {
+   "kind": "group",
+   "path": "somegroup",
+   "full_path": "somegroup",
+   "name": "Some Group"
+  }
+ }
+]

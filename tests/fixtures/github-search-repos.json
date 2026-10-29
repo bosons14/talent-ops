@@ -1,0 +1,104 @@
+{
+ "total_count": 5,
+ "items": [
+  {
+   "full_name": "vectorforge/vectorforge",
+   "name": "vectorforge",
+   "html_url": "https://github.com/vectorforge/vectorforge",
+   "owner": {
+    "login": "vectorforge",
+    "type": "Organization"
+   },
+   "stargazers_count": 18400,
+   "forks_count": 1840,
+   "topics": [
+    "rag",
+    "vector-database"
+   ],
+   "description": "Embeddable vector search engine for RAG",
+   "language": "Rust",
+   "pushed_at": "{{DAYS_AGO:1}}",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "full_name": "asharaman/tinyagent",
+   "name": "tinyagent",
+   "html_url": "https://github.com/asharaman/tinyagent",
+   "owner": {
+    "login": "asharaman",
+    "type": "User"
+   },
+   "stargazers_count": 4200,
+   "forks_count": 420,
+   "topics": [
+    "llm",
+    "ai-agents"
+   ],
+   "description": "Typed, testable LLM agents in 500 lines",
+   "language": "Python",
+   "pushed_at": "{{DAYS_AGO:5}}",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "full_name": "rkapoor/kvcache-lab",
+   "name": "kvcache-lab",
+   "html_url": "https://github.com/rkapoor/kvcache-lab",
+   "owner": {
+    "login": "rkapoor",
+    "type": "User"
+   },
+   "stargazers_count": 1500,
+   "forks_count": 150,
+   "topics": [
+    "llm-inference",
+    "cuda"
+   ],
+   "description": "Experiments in KV-cache compression for LLM inference",
+   "language": "C++",
+   "pushed_at": "{{DAYS_AGO:40}}",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "full_name": "meilin-ml/rag-evals",
+   "name": "rag-evals",
+   "html_url": "https://github.com/meilin-ml/rag-evals",
+   "owner": {
+    "login": "meilin-ml",
+    "type": "User"
+   },
+   "stargazers_count": 910,
+   "forks_count": 91,
+   "topics": [
+    "rag",
+    "evaluation"
+   ],
+   "description": "Honest evaluation harness for RAG pipelines",
+   "language": "Python",
+   "pushed_at": "{{DAYS_AGO:20}}",
+   "fork": false,
+   "archived": false
+  },
+  {
+   "full_name": "olduser/abandoned-agent",
+   "name": "abandoned-agent",
+   "html_url": "https://github.com/olduser/abandoned-agent",
+   "owner": {
+    "login": "olduser",
+    "type": "User"
+   },
+   "stargazers_count": 700,
+   "forks_count": 70,
+   "topics": [
+    "llm"
+   ],
+   "description": "Archived",
+   "language": "Python",
+   "pushed_at": "{{DAYS_AGO:300}}",
+   "fork": false,
+   "archived": true
+  }
+ ]
+}

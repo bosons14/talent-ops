@@ -1,0 +1,60 @@
+[
+ {
+  "title": "Building reliable LLM agents with typed tool calls",
+  "url": "https://dev.to/asharaman/building-reliable-llm-agents-1a2b",
+  "published_at": "{{DAYS_AGO:30}}",
+  "positive_reactions_count": 320,
+  "comments_count": 41,
+  "tag_list": [
+   "llm",
+   "ai",
+   "agents"
+  ],
+  "description": "What I learned shipping agents to production.",
+  "user": {
+   "name": "Asha Raman",
+   "username": "asharaman",
+   "github_username": "asharaman",
+   "twitter_username": "asha_builds",
+   "website_url": "https://asharaman.dev"
+  }
+ },
+ {
+  "title": "Quantizing a 7B model on a laptop GPU",
+  "url": "https://dev.to/rohank/quantizing-a-7b-model-3c4d",
+  "published_at": "{{DAYS_AGO:70}}",
+  "positive_reactions_count": 150,
+  "comments_count": 12,
+  "tag_list": [
+   "llm",
+   "inference",
+   "cuda"
+  ],
+  "description": "Inference on 8 GB of VRAM.",
+  "user": {
+   "name": "Rohan Kapoor",
+   "username": "rohank",
+   "github_username": "rkapoor",
+   "twitter_username": null,
+   "website_url": null
+  }
+ },
+ {
+  "title": "My first post",
+  "url": "https://dev.to/newbie/first-5e6f",
+  "published_at": "{{DAYS_AGO:10}}",
+  "positive_reactions_count": 3,
+  "comments_count": 0,
+  "tag_list": [
+   "llm"
+  ],
+  "description": "hi",
+  "user": {
+   "name": "New Person",
+   "username": "newbie",
+   "github_username": null,
+   "twitter_username": null,
+   "website_url": null
+  }
+ }
+]

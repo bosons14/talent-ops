@@ -1,0 +1,36 @@
+{
+ "hits": [
+  {
+   "title": "Agents are just loops with types",
+   "url": "https://asharaman.dev/posts/agents-are-loops",
+   "points": 410,
+   "num_comments": 180,
+   "author": "hnuser1",
+   "created_at": "{{DAYS_AGO:60}}"
+  },
+  {
+   "title": "Notes on paged attention",
+   "url": "https://lowlevel.systems/paged-attention",
+   "points": 250,
+   "num_comments": 60,
+   "author": "hnuser2",
+   "created_at": "{{DAYS_AGO:90}}"
+  },
+  {
+   "title": "Big lab announces new model",
+   "url": "https://openai.com/index/new-model",
+   "points": 900,
+   "num_comments": 700,
+   "author": "hnuser3",
+   "created_at": "{{DAYS_AGO:20}}"
+  },
+  {
+   "title": "What actually limits LLM inference throughput",
+   "url": "https://tomasvidal.substack.com/p/what-actually-limits",
+   "points": 180,
+   "num_comments": 50,
+   "author": "hnuser4",
+   "created_at": "{{DAYS_AGO:15}}"
+  }
+ ]
+}

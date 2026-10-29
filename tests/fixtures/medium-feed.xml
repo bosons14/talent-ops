@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title><![CDATA[Medium tag feed]]></title>
+<item><title><![CDATA[Why your RAG evals are lying to you]]></title><link>https://medium.com/@meilin.ml/why-your-rag-evals-lie-9f1e2d?source=rss------rag-5</link><dc:creator><![CDATA[Mei Lin]]></dc:creator><category><![CDATA[rag]]></category><category><![CDATA[llm]]></category><pubDate>{{DAYS_AGO:12}}</pubDate><description><![CDATA[<p>Retrieval augmented generation evaluation&#8230;</p>]]></description></item>
+<item><title><![CDATA[Scaling agents beyond the demo]]></title><link>https://medium.com/some-ai-pub/scaling-agents-beyond-the-demo-77aa?source=rss</link><dc:creator><![CDATA[Kavya Iyer]]></dc:creator><category><![CDATA[ai-agents]]></category><pubDate>{{DAYS_AGO:33}}</pubDate></item>
+</channel></rss>

@@ -1,0 +1,33 @@
+{
+ "data": {
+  "tag": {
+   "posts": {
+    "edges": [
+     {
+      "node": {
+       "title": "Evaluating RAG pipelines with synthetic queries",
+       "url": "https://meilin.hashnode.dev/rag-synthetic-queries",
+       "publishedAt": "{{DAYS_AGO:45}}",
+       "reactionCount": 60,
+       "responseCount": 4,
+       "tags": [
+        {
+         "slug": "rag"
+        }
+       ],
+       "author": {
+        "username": "meilin",
+        "name": "Mei Lin",
+        "socialMediaLinks": {
+         "github": "https://github.com/meilin-ml",
+         "twitter": "",
+         "website": ""
+        }
+       }
+      }
+     }
+    ]
+   }
+  }
+ }
+}

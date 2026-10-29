@@ -1,0 +1,20 @@
+{
+  "name": "talent-ops",
+  "version": "0.1.0",
+  "description": "Open-source AI talent sourcing for recruiters, run from Claude Code: find developers who write about and build cutting-edge tech across Medium, Substack, DEV, Hashnode, Hacker News, GitHub, GitLab, Codeberg and Bitbucket. Companion to career-ops.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "doctor": "node doctor.mjs --net",
+    "scout": "node scout.mjs",
+    "scout:blogs": "node scout.mjs --blogs",
+    "scout:repos": "node scout.mjs --repos",
+    "rank": "node rank.mjs",
+    "profile": "node profile.mjs",
+    "tracker": "node tracker.mjs",
+    "demo": "node scout.mjs --fixtures --data-dir demo --config tests/fixtures/demo-config.json && node rank.mjs --data-dir demo --config tests/fixtures/demo-config.json",
+    "test": "node --test tests/*.test.mjs"
+  }
+}
