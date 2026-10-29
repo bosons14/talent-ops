@@ -84,4 +84,6 @@ tests/      node:test suite + fictional fixtures (npm test)
 Adding a source: create `sources/<family>/<name>.mjs` exporting `name`, `family` and `async run(ctx)` returning signals (`{ kind, platform, keys, name, data }`), register it in `sources/index.mjs`, add a config block.
 
 https://medium.com/@subhendra.one/i-built-the-recruiters-version-of-career-ops-a330a8748630?sharedUserId=subhendra.one
+
+
 MIT licence.
